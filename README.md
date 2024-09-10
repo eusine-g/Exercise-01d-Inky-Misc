@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Ethan Goldblatt
 
-# Your Github username
+# eusine-g
